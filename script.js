@@ -14,7 +14,7 @@ const btnHold = document.querySelector(".btn--hold");
 
 //starting conditions
 let scores, currentScore, activePlayer, playing;
-
+//sawyisebi
 const init = function () {
   scores = [0, 0];
   currentScore = 0;
